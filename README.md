@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+ChiefNing.+LLM+Application+Developer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=1000&size=20&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+ChiefNing.+LLM+Application+Developer" alt="Hi"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=800&pause=100000&lines=🌟+Algorithms+and+Engineering+Expert" alt="Profile Info"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=800&pause=100000&lines=🚀+Full-Stack+Developer+🧠+LLM+Developer+💻+Backend+Developer" alt="Profile Info"/>
