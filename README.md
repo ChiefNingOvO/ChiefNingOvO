@@ -79,12 +79,7 @@ I always maintain a high level of enthusiasm and curiosity for technology learni
 - **Tech Stack**: Kotlin, Android, Java, Spring Boot, MySQL
 - **Link**: [GitHub Repository](https://github.com/ChiefNingOvO/NCWU-Space)
 - **Highlights**: Integrates various campus services into a single application, improving student convenience
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiefNingOvO&show_icons=true&theme=radical)](https://github.com/ChiefNingOvO)
-
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefNingOvO&layout=compact&theme=radical)](https://github.com/ChiefNingOvO)
+nguages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefNingOvO&layout=compact&theme=radical)](https://github.com/ChiefNingOvO)
 
 ## 🎯 Goals & Vision
 
