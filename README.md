@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+ChiefNing.+Versatile+Technical+Expert." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+ChiefNing.+Versatile+Technical+Exp." alt="Hi"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟+Algorithms+&+Engineering+Expert.+🚀+Full-Stack+Developer.;" alt="Profile Info"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟+Algorithms+&+Engineering+Expert.+🚀+Full-Stack+Developer.+🧠+LLM+Developer.+💻+Backend+Developer.;" alt="Profile Info"/>
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
@@ -18,18 +18,6 @@
   <a href="mailto:769472984@qq.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/QQ-769472984-1DA1F2?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ"/>
   </a>
-
-  <a href="https://github.com/yourusername" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://linkedin.com/in/yourusername" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-yourusername-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://twitter.com/yourusername" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Twitter-yourusername-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 </div>
@@ -39,6 +27,9 @@
 I always maintain a high level of enthusiasm and curiosity for technology learning, continuously enhancing my professional skills through systematic learning, continuous practice, and deep thinking. I uphold a rigorous and pragmatic work attitude, dare to challenge technical difficulties, accumulate experience in solving complex problems, and pursue excellence through continuous iteration, promoting the comprehensive development of my technical capabilities with unremitting efforts and firm belief.
 
 - 💬 I can help with: algorithms and data structures, Java development, browser automation, large model development
+- 🏆 Codeforces Rating: 1800
+- 🏅 10th CCPC Zhengzhou Station Invitational Silver Medal
+- 🥉 CCPC Jinan Station Regional Iron Medal
 
 ## 🛠️ Tech Stack
 
@@ -70,26 +61,29 @@ I always maintain a high level of enthusiasm and curiosity for technology learni
 - GitHub
 - Visual Studio Code
 - IntelliJ IDEA
+- Codex
+- Postman
+- Chrome DevTools
 
 ## 📁 Featured Projects
 
 ### 🚀 ACM-board
 - **Description**: A platform for ACM (Association for Computing Machinery) related activities, likely for programming contests and algorithm practice
 - **Tech Stack**: Java, Spring Boot, MySQL, React
-- **Link**: [GitHub Repository](https://github.com/yourusername/ACM-board)
+- **Link**: [GitHub Repository](https://github.com/ChiefNingOvO/ACM-board)
 - **Highlights**: Provides a comprehensive environment for algorithm practice and contest preparation
 
 ### 🚀 NCWU-Space
 - **Description**: Campus life app for North China University of Water Resources and Electric Power, designed to enhance student campus experience
 - **Tech Stack**: Kotlin, Android, Java, Spring Boot, MySQL
-- **Link**: [GitHub Repository](https://github.com/yourusername/NCWU-Space)
+- **Link**: [GitHub Repository](https://github.com/ChiefNingOvO/NCWU-Space)
 - **Highlights**: Integrates various campus services into a single application, improving student convenience
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ## 🎯 Goals & Vision
 
