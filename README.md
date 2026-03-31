@@ -1,4 +1,4 @@
-# 👋 Hello, KaiNing!!!!
+# 👋 Hello, Kaining！
 
 ## 📚 About Me
 
@@ -13,37 +13,37 @@ I am dedicated to becoming a versatile technical expert with both deep algorithm
 
 ### Programming Languages
 
-!\[Python]\(https\://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white null)
-!\[JavaScript]\(https\://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black null)
-!\[Java]\(https\://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white null)
-!\[C++]\(https\://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white null)
-!\[Kotlin]\(https\://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white null)
+!\[Python]\(https\://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54 null)
+!\[JavaScript]\(https\://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E null)
+!\[Java]\(https\://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white null)
+!\[C++]\(https\://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white null)
+!\[Kotlin]\(https\://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white null)
 
 ### Frontend Technologies
 
-!\[HTML5]\(https\://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white null)
-!\[CSS3]\(https\://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white null)
-!\[React]\(https\://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB null)
-!\[Vue]\(https\://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D null)
+!\[HTML5]\(https\://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white null)
+!\[CSS3]\(https\://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white null)
+!\[React]\(https\://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB null)
+!\[Vue.js]\(https\://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D null)
 
 ### Backend Technologies
 
-!\[Node.js]\(https\://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white null)
-!\[Express]\(https\://img.shields.io/badge/Express.js-404D59?style=for-the-badge null)
-!\[Spring Boot]\(https\://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white null)
+!\[NodeJS]\(https\://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white null)
+!\[Express.js]\(https\://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB null)
+!\[Spring]\(https\://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white null)
 
 ### Databases
 
-!\[MySQL]\(https\://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white null)
-!\[MongoDB]\(https\://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white null)
-!\[PostgreSQL]\(https\://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white null)
+!\[MySQL]\(https\://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white null)
+!\[MongoDB]\(https\://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white null)
+!\[Postgres]\(https\://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white null)
 
 ### Development Tools
 
-!\[Git]\(https\://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white null)
-!\[GitHub]\(https\://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white null)
-!\[VS Code]\(https\://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white null)
-!\[IntelliJ IDEA]\(https\://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white null)
+!\[Git]\(https\://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white null)
+!\[GitHub]\(https\://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white null)
+!\[Visual Studio Code]\(https\://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white null)
+!\[IntelliJ IDEA]\(https\://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white null)
 
 ## 📁 Featured Projects
 
