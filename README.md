@@ -81,9 +81,9 @@ I always maintain a high level of enthusiasm and curiosity for technology learni
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiefNingOvO&show_icons=true&theme=radical)](https://github.com/ChiefNingOvO)
 
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefNingOvO&layout=compact&theme=radical)](https://github.com/ChiefNingOvO)
 
 ## 🎯 Goals & Vision
 
